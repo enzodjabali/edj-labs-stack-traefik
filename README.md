@@ -19,7 +19,7 @@ docker stack deploy -c docker-compose.yml traefik
 
 Access the Traefik dashboard at: https://traefik.your-domain.com
 
---
+---
 
 ### Adding authentification to the Traefik dashboard
 
